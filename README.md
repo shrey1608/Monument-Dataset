@@ -84,6 +84,8 @@ The Indian Monument Dataset is regularly updated to ensure accuracy and to incor
 
 ## Citation
 If you use the Indian Monument Dataset in your research or applications, please cite it as follows:
+DOI: [10.6084/m9.figshare.23542107](https://doi.org/10.6084/m9.figshare.23542107.v1)
+Citation: [Modi, Shrey (2023). Indian Monuments. figshare. Figure. https://doi.org/10.6084/m9.figshare.23542107.v1]
 
 ## Contributors
 - Shrey Modi
